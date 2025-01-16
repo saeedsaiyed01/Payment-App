@@ -1,3 +1,4 @@
+ 
 # Node.js
 node_modules/
 npm-debug.log
@@ -8,32 +9,3 @@ yarn-error.log
 .env
 .env.local
 .env.*.local
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Log files
-*.log
-
-# Build directories
-/dist/
-/build/
-/coverage/
-
-# IDE files
-.vscode/
-
-
-# Misc
-
-
-# Dependencies (if not using node_modules)
-package-lock.json
-
-
-
-
-
-# Windows Installer files
-
